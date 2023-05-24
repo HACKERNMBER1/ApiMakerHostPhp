@@ -60,9 +60,9 @@ def Creat_Mail():
 
         }
 
-    num = random.choice('1234567890')   
+    num = random.choice('1234567890QWERTYUIOPASDFGHJKLZXCVBNM')   
 
-    num2 = random.choice('1234567890')  
+    num2 = random.choice('1234567890QWERTYUIOPASDFGHJKLZXCVBNM')  
 
     email = f'Haider{num}{num2}@gmail.com'
 
