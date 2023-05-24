@@ -96,7 +96,7 @@ def Creat_Mail():
 
     dataend = {
 
-        return "Done Create Host Account 🧑‍💻"
+
 
         'Email ': email,
 
